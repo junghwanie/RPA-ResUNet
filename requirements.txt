@@ -1,0 +1,6 @@
+matplotlib
+opencv-python
+torch
+scikit-image
+albumentations
+numpy==1.23
