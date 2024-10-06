@@ -27,8 +27,7 @@ class Solver(object):
             f"({torch.cuda.get_device_name()})" if torch.cuda.is_available() else "",
         )
 
-        # model = RPAResUNet(num_classes=1).to(device)
-        model = UNet(in_channel=3, out_channel=1).to(device)
+        model = RPAResUNet(num_classes=1).to(device)
 
         criterion = nn.BCEWithLogitsLoss()
         optimizer = Adam(model.parameters(), lr=1e-3)
