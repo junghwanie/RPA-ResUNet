@@ -26,8 +26,7 @@ def main(config):
     valid_loader = DataLoader(valid_data, config.batch_size)
     test_loader = DataLoader(test_dataset, config.batch_size)
 
-    # Solver for training and testing ResUNet
-    # Add to mode parameter for testing
+    # Solver for training ResUNet
     solver = Solver(train_loader, valid_loader, test_loader, config)
 
     solver.train()
