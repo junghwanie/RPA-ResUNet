@@ -1,6 +1,6 @@
 ## RPA-ResUNet
 ### Overview
-RPA-ResUNet: Refined Position of Attention ResUNet uses [ResUNet++](https://arxiv.org/abs/1911.07067) as its baseline and applies the motivation from the CBAM paper. It was trained and evaluated on Windows, it will also work for MacOS.
+RPA-ResUNet: Refined Position of Attention ResUNet uses [ResUNet++](https://arxiv.org/abs/1911.07067) as its baseline and applies the motivation from the [CBAM](https://arxiv.org/abs/1807.06521) paper. It was trained and evaluated on Windows, it will also work for MacOS.
 </br>
 This code was written as part of the DACON project and developed by [`@junghwanie`](https://github.com/junghwanie).
 
@@ -14,7 +14,7 @@ This code was written as part of the DACON project and developed by [`@junghwani
 To download the DSB 2018 dataset, you must request access to that [URL](https://www.kaggle.com/c/data-science-bowl-2018/data) and provides simple exploratory data analysis of data used with the EDA.ipynb.
 
 ### Quick start
-- environments
+- environments:
 `pip install -r requirements.txt`
-- Training
+- Training:
 `python main.py`
