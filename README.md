@@ -13,6 +13,10 @@ This code was written as part of the [DACON](https://dacon.io/) project with 2nd
 - Data Science Bowl 2018 </br>
 To download the DSB 2018 dataset, you must request access to that [URL](https://www.kaggle.com/c/data-science-bowl-2018/data) and provides simple exploratory data analysis of data used with the EDA.ipynb.
 
+### Results
+| Method | RPA-ResUNet | ResUNet++ | U-Net |
+| mIoU | 0.6992 | 0.7164 | 0.6851 | 
+
 ### Quick start
 - environments:
 `pip install -r requirements.txt`
