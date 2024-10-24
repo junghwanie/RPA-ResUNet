@@ -15,6 +15,7 @@ To download the DSB 2018 dataset, you must request access to that [URL](https://
 
 ### Results
 | Method | RPA-ResUNet | ResUNet++ | U-Net |
+| --- | --- | --- | --- |
 | mIoU | 0.6992 | 0.7164 | 0.6851 | 
 
 ### Quick start
