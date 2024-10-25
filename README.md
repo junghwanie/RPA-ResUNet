@@ -17,10 +17,15 @@ To download the DSB 2018 dataset, you must request access to that [URL](https://
 | Method | RPA-ResUNet | ResUNet++ | U-Net |
 | --- | --- | --- | --- |
 | mIoU | 0.6992 | 0.7164 | 0.6851 |
+</br>
+
 
 <img src="https://github.com/user-attachments/assets/efbafe6d-39f0-46d6-9e58-901831d9cdfb" width="150" height="150">
 <img src="https://github.com/user-attachments/assets/1f3de0b1-6027-4812-bde9-d448bb9d1eec" width="150" height="150">
-<img src="https://github.com/user-attachments/assets/24c3058b-5423-497b-af12-7193919576d7" width="150" height="150">
+<img src="https://github.com/user-attachments/assets/24c3058b-5423-497b-af12-7193919576d7" width="150" height="150"></br>
+<img src="https://github.com/user-attachments/assets/af434c65-1a2c-4d4a-8072-8b40f5b66166" width="150" height="150">
+<img src="https://github.com/user-attachments/assets/e74badc0-16df-4659-bb4a-b528b89b69aa" width="150" height="150">
+<img src="https://github.com/user-attachments/assets/f9fb9ceb-33c8-4caa-aa6c-6641c2c35af3" width="150" height="150">
 
 ### Quick start
 - environments:
