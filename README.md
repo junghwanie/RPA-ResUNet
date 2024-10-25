@@ -17,9 +17,8 @@ To download the DSB 2018 dataset, you must request access to that [URL](https://
 | Method | RPA-ResUNet | ResUNet++ | U-Net |
 | --- | --- | --- | --- |
 | mIoU | 0.6992 | 0.7164 | 0.6851 |
-</br>
 
-Qualitative results visualized on the DSB 2018 dataset with RPA-ResUNet.</br>
+**Qualitative results** visualized on the DSB 2018 dataset with RPA-ResUNet.
 From the left: Image, Ground truth, Prediction.</br>
 <img src="https://github.com/user-attachments/assets/efbafe6d-39f0-46d6-9e58-901831d9cdfb" width="150" height="150">
 <img src="https://github.com/user-attachments/assets/1f3de0b1-6027-4812-bde9-d448bb9d1eec" width="150" height="150">
